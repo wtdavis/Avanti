@@ -6,5 +6,5 @@ const port = 3000
 app.use("/", (req, res) => {
     res.send("200 OK")
 })
-1234
+// 1234
 app.listen(port)
